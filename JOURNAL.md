@@ -17,3 +17,16 @@ I spend like 40 minutes trying to get joints to work, and they still won't work.
 ![image](https://github.com/user-attachments/assets/54a5b7e7-1fc6-4a83-bc63-b07c99e8758b)
 
 **Total time spent: 1 hour 24 minutes**
+
+# June 18: Succesfully CADded pinion and rack with joints
+I've been following this tutorial btw
+
+https://www.youtube.com/watch?v=laBmk4ksrmg
+
+I also made it smaller to fit the project better
+
+![image](https://github.com/user-attachments/assets/b68e6fed-710a-45e3-8d59-6013ae701dd4)
+
+
+https://github.com/user-attachments/assets/b05fff9d-224e-4162-9661-85b0000adbec
+
